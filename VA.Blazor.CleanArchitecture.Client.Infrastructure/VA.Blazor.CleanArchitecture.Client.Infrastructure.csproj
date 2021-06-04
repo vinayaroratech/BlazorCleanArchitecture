@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="5.0.6" />
+    <PackageReference Include="MudBlazor" Version="5.0.10" />
+    <PackageReference Include="Blazored.LocalStorage" Version="4.1.1" />
+    <PackageReference Include="Toolbelt.Blazor.HttpClientInterceptor" Version="9.2.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VA.Blazor.CleanArchitecture.Application\VA.Blazor.CleanArchitecture.Application.csproj" />
+    <ProjectReference Include="..\VA.Blazor.CleanArchitecture.Shared\VA.Blazor.CleanArchitecture.Shared.csproj" />
+  </ItemGroup>
+</Project>

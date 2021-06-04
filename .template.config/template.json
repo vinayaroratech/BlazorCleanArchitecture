@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Vinay Arora",
+  "classifications": [
+    "blazor",
+	"cleanarch",
+    "clean architecture",
+    "solution",
+    "ddd",
+    "vinay",
+    "solid",
+    "onion",
+    "hexagonal"
+  ],
+  "tags": {
+    "language": "C#"
+  },
+  "identity": "VA.Template.Blazor.CSharp",
+  "name": "VA Blazor",
+  "shortName": "va-spa",
+  "sourceName": "VA.Blazor.CleanArchitecture",
+  "preferNameDirectory": true,
+}
