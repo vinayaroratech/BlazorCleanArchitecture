@@ -29,7 +29,6 @@
   <p align="center">
     Open Sourced Solution Template For Blazor Web-Assembly 5.0 built with MudBlazor Components
     <br />
-    <a href="https://vinayaroratech.com/blog/blazor-hero-quick-start-guide/"><strong>Read the Documentation »</strong></a>
     <br />
     <br />
     <a href="https://github.com/vinaykarora/BlazorCleanArchitecture/issues">Report Bug</a>
@@ -54,13 +53,6 @@ This is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built 
 * [FluentValidation](https://fluentvalidation.net/)
 * [NUnit](https://nunit.org/), [FluentAssertions](https://fluentassertions.com/), [Moq](https://github.com/moq) & [Respawn](https://github.com/jbogard/Respawn)
 * [Docker](https://www.docker.com/)
-
-# Blazor v2.1
-
-- minor bug fixes
-- UI improvements
-- validation messages fixed
-- fluent validation support
 
 # Getting Started 🦸
 
