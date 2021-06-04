@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>VA.Blazor.CleanArchitecture.Template</id>
+    <title>VA.Blazor.CleanArchitecture.Template</title>
+    <version>5.0.0</version>
+    <authors>Vinay Arora</authors>
+    <description>
+      Blazo and ASP.NET Core template for solution using Steve @ardalis Smith's CleanArchitecture.
+    </description>
+    <language>en-US</language>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/vinaykarora/BlazorCleanArchitecture</projectUrl>
+    <releaseNotes>Refactored to use Aggregate design pattern and organization.</releaseNotes>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <tags>blazor, cleanarchitecture clean architecture ddd dddesign template project solution csharp</tags>
+  </metadata>
+  <files>
+    <file src=".\**" target="content" exclude="**\bin\**;**\obj\**;**\.git\**;**\.github\**;**\*.user;**\.vs\**;**\.vscode\**" />
+  </files>
+</package>
